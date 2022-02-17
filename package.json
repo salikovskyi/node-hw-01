@@ -1,0 +1,26 @@
+{
+  "name": "node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "start:dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salikovskyi/node-hw-01.git"
+  },
+  "keywords": ["node.js"],
+  "author": "salikovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salikovskyi/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/salikovskyi/node-hw-01#readme",
+  "dependencies": {
+    "commander": "9.0.0",
+    "path": "^0.12.7"
+  }
+}
